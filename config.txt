@@ -1,0 +1,8 @@
+
+
+APIKEY = 9dd235ffc0fefb18e848a81d3ea6edf6
+
+
+
+api.openweathermap.org/data/2.5/weather?q=London
+
